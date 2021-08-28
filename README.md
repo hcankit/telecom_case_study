@@ -49,5 +49,5 @@ It will be used to identify important variables that are strong predictors of ch
 7. Finally, select a model based on some evaluation metric.
  
 Now , build another model with the main objective of identifying important predictor attributes which help the business understand indicators of churn.
-After identifying important predictors, display them visually - you can use plots, summary tables etc.
+After identifying important predictors, display them visually - using plots, summary tables etc.
 Finally, recommend strategies to manage customer churn based on observation
